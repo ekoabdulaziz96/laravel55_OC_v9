@@ -1,0 +1,49 @@
+/*.modal-header ,.modal-footer {
+	background-color: #309BD4;
+}*/
+
+.modal-header-add ,.modal-footer-add {
+	background-color: #2DD779;
+}
+
+.modal-header-show ,.modal-footer-show {
+	background-color: #6799E4;
+}
+
+.modal-header-edit ,.modal-footer-edit {
+	background-color: #D7BD2D;
+}
+
+.modal-header-delete ,.modal-footer-delete {
+	background-color: #D96475;
+}
+
+.modal-header-acc-kacab ,.modal-footer-acc-kacab {
+	background-color: #F0F690;
+}
+.modal-header-acc-manajer ,.modal-footer-acc-manajer {
+	background-color: #F8ED8C;
+}
+.modal-header-acc-direktur ,.modal-footer-acc-direktur {
+	background-color: #D3F690;
+}.modal-header-acc-profil ,.modal-footer-acc-profil {
+	background-color: #D7DECA;
+}
+
+.label {
+	margin-top: 20px;
+}
+
+
+
+
+.odd .showOdd{
+   background: #D7FCD3;
+}
+/*.even {
+   background: #E9E9E5;
+}*/
+tr:hover {
+    background-color: #D1D7D1;
+}
+
